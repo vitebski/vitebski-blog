@@ -1,0 +1,73 @@
+---
+layout: post
+title: My Resources
+---
+
+Here I list the most important resources I use on a daily basis.
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+## Web/UI Component Libraries
+
+- [shadcn/ui](https://ui.shadcn.com/) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+
+## AI
+
+This section lists various AI tools for development and other purposes.
+
+### MCP Servers
+
+- [GitMCP](https://gitmcp.io/) - Instantly create a Remote MCP server for any GitHub repository.
+- [Context7](https://context7.com/) - Up-to-date documentation for LLMs and AI code editors
+- [Memory server](https://github.com/modelcontextprotocol/servers/tree/main/src/memory)
+
+#### Evalute candiates
+
+- [MCP Hub](https://mcphub.io/) - The mcp server, discovery. Find the right mcp server for you from 250+ servers collected.
+- [WCGW](https://github.com/rusiaaman/wcgw) - Shell and coding agent on claude desktop app.
+
+#### Curated MCP server lists
+
+- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of Model Context Protocol (MCP) servers.
+- [Model Context Protocol servers](https://github.com/modelcontextprotocol/servers) - This repository is a collection of reference implementations for the Model Context Protocol (MCP), as well as references to community built servers and additional resources.
+
+### Courses
+
+- [Anthropic Courses](https://github.com/anthropics/courses?tab=readme-ov-file) - Educational resources from Anthropic.
+
+### Chat/Search Tools
+
+- [ChatGPT](https://chatgpt.com/) - Great as a general chat client.
+- [Claude](https://claude.ai) - Shines in software development.
+- [Kagi](https://kagi.com/) - AI search engine.
+
+### Coding Tools
+
+These tools are divided into 3 categories, each defining the level of interest and quality of the tool.
+
+#### Use
+
+Tools I use on a daily basis:
+
+- [Augment Code](https://www.augmentcode.com/) - Excellent AI code agent, a plugin for most famous IDEs: IntelliJ IDEA, VS Code.
+- [Cursor](https://www.cursor.com/) - The AI Code Editor, most popular at the moment, shines when you provide it with clear and detailed instructions. THIS IS NOT A PLUGIN FOR IDE, but a standalone editor.
+
+#### Evaluate
+
+Tools that look promising and need evaluation:
+
+- [Cline](https://cline.bot/) - Collaborative AI partner that's open source. Very popular. It is a plugin for VS Code.
+- [v0](https://v0.dev/) - Helps in bootstrapping new web projects.
+- [Replit](https://replit.com/) - Cloud-based IDE, trying to standardize software building process with AI. Has potential.
+- [Firebase Studio](https://firebase.studio/) - Google cloud-based IDE integrated with GCP services. Optimized for Web development.
+
+#### Watch
+
+Tools to continue watching and see where they go:
+
+- [Gitpod](https://gitpod.io/) - Cloud hosted environments for enterprises, promises secured cloud development environments.
+- [Bolt](https://bolt.new/) - New development platform.
+
+#### Drop
+
+Tools I've decided not to use:
