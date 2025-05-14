@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Resources
+title: My AI Resources
 ---
 
 Here I list the most important resources I use on a daily basis.
